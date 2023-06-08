@@ -1,16 +1,28 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Rounded&text=wjdwhd)
+<div align="center">
+  
+  ##  Hello, I'm Jeong Jong Hun! 👋
+  
+  <br/>
+  
+  ## Projects
+  Here are some of the projects I've contributed to:
 
-<!--
-**wjdwhd/wjdwhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [Project 1](https://github.com/eppae/HKcapstone): graduation project ( PPT Converter for Hand Drawings )
+- [Project 2](https://github.com/user/project2): blockchain project ( Employment Contract Utilizing Blockchain )
+- [Project 3](https://github.com/user/project3): ( Optimal Water Purification Facility Locator )
+  
+  <br/><br/>
+  
+  ## Skills
+- Languages: JavaScript, Python, c++, etc...
+- Databases: MySQL, MongoDB
+- Version Control: Git, GitHub
+  
+  <br/><br/>
+  
+  ## Contact Me
+- 📧 Email: be11ttak@gmail.com
+- 🌐 Website: https://velog.io/@be11ttak
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
