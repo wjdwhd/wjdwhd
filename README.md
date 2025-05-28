@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Rounded&text=wjdwhd)
 <div align="center">
   
-  ##  Hello, I'm Jeong Jong Hun! 👋
+  ##  Hello, I'm Jung Jong Hun! 👋
   
   <br/>
   
